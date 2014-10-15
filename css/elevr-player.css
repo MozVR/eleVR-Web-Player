@@ -57,6 +57,9 @@ a:active {
   background-color: #000;
 }
 
+.left, .right {
+  display: none;
+}
 .left {
   width: 50%;
   float: left;
@@ -81,6 +84,7 @@ a:active {
 }
 
 #video-controls {
+  display: none;
 	position: fixed;
 	bottom: 0;
 	left: 0;

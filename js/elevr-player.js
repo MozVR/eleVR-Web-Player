@@ -92,7 +92,9 @@ function runEleVRPlayer() {
 
     video.addEventListener("canplaythrough", loaded);
     video.addEventListener("ended", ended);
-    // video.preload = "auto";
+    video.preload = "auto";
+
+    playPause();
   }
 }
 
