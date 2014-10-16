@@ -99,6 +99,9 @@ function runEleVRPlayer() {
 
     // manual rotation for polar sea
     manualRotation = new Float32Array([ 0, -0.9998828172683716, 0, 0.015301964245736599 ]);
+
+    // tell JAVRIS we are ready
+    VRClient.ready();
   }
 }
 
