@@ -1,19 +1,20 @@
-Polar Sea 360 VR video and player
-================
-
-####[Click here to view VR video](http://mozvr.github.io/polarsea/index.html)
+## Polar Sea 360 VR video and player
 
 
-* More information about this video by Deep Inc:
-
-    [The POLAR SEA 360° INTERACTIVE JOURNEY](http://deep-inc.com/portfolio/the-polar-sea/).
+###[Click here to view VR video](http://mozvr.github.io/polarsea/index.html)
 
 
-* VR 360 video player by ELEVR:
 
-    [ELEVR](http://elevr.com/)
+More information about this video by Deep Inc:
 
-    [ELEVR Web Player github repo](https://github.com/hawksley/eleVR-Web-Player)
+* [The POLAR SEA 360° INTERACTIVE JOURNEY](http://deep-inc.com/portfolio/the-polar-sea/).
+
+
+VR 360 video player by ELEVR:
+
+* [ELEVR](http://elevr.com/)
+
+* [ELEVR Web Player github repo](https://github.com/hawksley/eleVR-Web-Player)
 
 
 ### Viewing this example
@@ -24,6 +25,7 @@ Best viewed using a VR enabled browser using a Oculus Rift DK1 or DK2 VR headset
 
     or
 
+
 * [Download Chromium experimental VR builds](http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html)
 
 
@@ -31,17 +33,17 @@ Best viewed using a VR enabled browser using a Oculus Rift DK1 or DK2 VR headset
 ### Key controls
 
 
-`Double click` to enter full-screen VR mode.
+* `Double click` to enter full-screen VR mode.
 
 
-`W`	up
+* `W`	up
 
-`A`	left
+* `A`	left
 
-`S`	down
+* `S`	down
 
-`D`	right
+* `D`	right
 
-`Q`	rotate left
+* `Q`	rotate left
 
-`E`	rotate right
+* `E`	rotate right
