@@ -1,7 +1,7 @@
-## Polar Sea 360 VR video and player
+## Polar Sea 360 VR video
 
+###[Click here to view project on Mozvr.com](http://mozvr.com/projects/polarsea)
 
-###[Click here to view VR video](http://mozvr.github.io/polarsea/index.html)
 
 More information about this video by Deep Inc:
 
@@ -15,21 +15,7 @@ VR 360 video player by ELEVR:
 * [ELEVR Web Player github repo](https://github.com/hawksley/eleVR-Web-Player)
 
 
-### Viewing this example
-
-Best viewed using a VR enabled browser using a Oculus Rift DK1 or DK2 VR headset.
-
-* [Download Firefox experimental VR build](http://vrhelloworld.com/builds/)
-
-    or
-
-
-* [Download Chromium experimental VR builds](http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html)
-
-
-
 ### Key controls
-
 
 * `Double click` to enter full-screen VR mode.
 
