@@ -1,6 +1,6 @@
 ## Polar Sea 360 VR video
 
-###[Click here to view project on Mozvr.com](http://mozvr.com/projects/polarsea)
+**[View project now!](https://mozillareality.github.io/polarsea/)**
 
 
 More information about this video by Deep Inc:
